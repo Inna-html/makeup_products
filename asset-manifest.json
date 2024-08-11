@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./makeup_products/static/css/main.cfe06faf.css",
+    "main.js": "./makeup_products/static/js/main.9e994cca.js",
+    "static/media/oops.png": "./makeup_products/static/media/oops.0339134467ddeee93b7e.png",
+    "index.html": "/makeup_products/index.html",
+    "main.cfe06faf.css.map": "./makeup_products/static/css/main.cfe06faf.css.map",
+    "main.9e994cca.js.map": "./makeup_products/static/js/main.9e994cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe06faf.css",
+    "static/js/main.9e994cca.js"
+  ]
+}
