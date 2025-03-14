@@ -2,7 +2,7 @@
 
 ### ***Description***
 
-A selection of makeup-products of different brands, you can also view the details of the products by clicking on any
+A selection of makeup-products of different brands
 
 ### Look to project:
 
